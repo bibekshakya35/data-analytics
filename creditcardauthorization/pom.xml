@@ -26,7 +26,7 @@
         <dependency>
             <groupId>org.apache.storm</groupId>
             <artifactId>storm-core</artifactId>
-            <version>0.9.3</version>
+            <version>1.1.3</version>
             <!-- in a real cca.topology that will be deploy to a real cluster, scope should be set to provided
                  as shown below. we're keeping it in default 'compile' scope to allow for easy execution with
                  maven in local cluster mode -->
